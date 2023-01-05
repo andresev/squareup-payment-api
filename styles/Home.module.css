@@ -7,6 +7,13 @@
   min-height: 100vh;
 }
 
+.container {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
